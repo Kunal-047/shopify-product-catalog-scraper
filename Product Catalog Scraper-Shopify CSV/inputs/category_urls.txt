@@ -1,0 +1,28 @@
+# ==================================
+# Category / Collection URLs
+# Used for product discovery crawling
+# ==================================
+
+# --- Amazon Categories ---
+https://www.amazon.in/gp/bestsellers/electronics
+https://www.amazon.in/gp/bestsellers/kitchen
+
+# --- Flipkart Categories ---
+https://www.flipkart.com/mobiles
+https://www.flipkart.com/electronics
+
+# --- Myntra Categories ---
+https://www.myntra.com/men-clothing
+https://www.myntra.com/women-footwear
+
+# --- Ajio Categories ---
+https://www.ajio.com/shop/men
+https://www.ajio.com/shop/women
+
+# --- Brand Stores ---
+https://www.mi.com/in/store
+https://www.samsung.com/in/smartphones/
+
+# --- Demo / Client Examples ---
+https://example.com/category/electronics
+https://example.com/category/fashion

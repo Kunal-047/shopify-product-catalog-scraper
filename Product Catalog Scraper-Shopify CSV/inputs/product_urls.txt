@@ -1,0 +1,33 @@
+# ================================
+# Product URLs (Individual Pages)
+# Lines starting with # are comments
+# Lines starting with ; are disabled
+# ================================
+
+# --- Amazon India ---
+#https://www.amazon.in/dp/B0C7QJ9KQ2
+#https://www.amazon.in/dp/B0BVM8QG1Z
+;https://www.amazon.in/dp/B0BXXDISABLED   # disabled example
+
+https://www.amazon.in/OnePlus-15R-Snapdragon%C2%AE-Personalised-Game-changing/dp/B0FZT1D63F/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.WgfR5wZxVWLfDlOLJfW12NupS-IkUjs93t4PfMC28eXeQBDO2VZrE3qU4fOAK7pOQ9k3ZcjqHLIYiJWvlkjsF9yBmNH9ZWzAoWoBUY4wVobDwveQ-s2cGuta1eRxntzMIRh1iw5oWo5U-pTG2-vzQpzCHHvjZsSahadi2TIvenUzRbgu9SSakQWgoEud26SgZzGKBLiRE8eSMvjTzn_xH8P4OKQmA8hNr19I8WDF0to.GRdzGlMyuCNCHKh7CYI6KznXCGBOllLusO5sQhnjWgk&dib_tag=se&keywords=smartphone&qid=1769616374&sr=8-1-spons&aref=RE8VEh6UYM&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+
+# --- Flipkart ---
+#https://www.flipkart.com/boat-rockerz-450-bluetooth-headset/p/itm2f3e7f8c3a1b2
+#https://www.flipkart.com/realme-10000-mah-power-bank/p/itm7c9d2f0e1babc
+https://www.flipkart.com/motorola-g06-power-pantone-tendril-64-gb/p/itm042f1f6d04b3a?pid=MOBHFSCEDQXXDXUQ&lid=LSTMOBHFSCEDQXXDXUQ5OORZ3&marketplace=FLIPKART&store=tyy%2F4io&srno=b_1_4&otracker=browse&fm=organic&iid=f0b56565-ab8c-409e-b208-2563f0576b71.MOBHFSCEDQXXDXUQ.SEARCH&ppt=None&ppn=None&ssid=7px9fgvvjk0000001769616185717
+
+
+# --- Myntra ---
+#https://www.myntra.com/shirts/hrx-by-hrithik-roshan-men-blue-shirt/18234576/buy
+#https://www.myntra.com/shoes/puma/puma-unisex-black-running-shoes/16023458/buy
+https://www.myntra.com/shirts/hancock/hancock-men-black-slim-fit-formal-shirt/1849875/buy
+
+# --- Ajio ---
+#https://www.ajio.com/levis-men-blue-slim-fit-jeans/p/441123456
+https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt-with-patch-pocket/p/463633516_grey?
+
+
+# --- Generic Test URLs ---
+#https://example.com/product/test-product-1
+#https://example.com/product/test-product-2

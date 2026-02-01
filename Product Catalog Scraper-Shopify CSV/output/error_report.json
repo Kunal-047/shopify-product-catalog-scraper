@@ -1,0 +1,195 @@
+{
+  "valid": false,
+  "schema": {
+    "valid": true,
+    "missing_columns": [],
+    "extra_columns": [],
+    "row_issues": []
+  },
+  "required_fields": {
+    "valid": false,
+    "errors": [
+      {
+        "row": 1,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 1,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 1,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 2,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 2,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 2,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 3,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 3,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 3,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 4,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 4,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 4,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 5,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 5,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 5,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 6,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 6,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 6,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 7,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 7,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 7,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 9,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 9,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 9,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 10,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 10,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 10,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 11,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 11,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 11,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      },
+      {
+        "row": 12,
+        "field": "Title",
+        "error": "Missing required field"
+      },
+      {
+        "row": 12,
+        "field": "Variant SKU",
+        "error": "Missing required field"
+      },
+      {
+        "row": 12,
+        "field": "Variant Price",
+        "error": "Missing required field"
+      }
+    ]
+  },
+  "images": {
+    "valid": true,
+    "errors": [],
+    "warnings": [
+      {
+        "row": 7,
+        "field": "Image Src",
+        "warning": "Non-standard image extension"
+      }
+    ]
+  },
+  "summary": {
+    "total_rows": 14,
+    "errors": 33,
+    "warnings": 1
+  }
+}

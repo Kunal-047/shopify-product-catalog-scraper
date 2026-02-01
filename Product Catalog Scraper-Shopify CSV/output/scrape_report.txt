@@ -1,0 +1,35 @@
+SHOPIFY CATALOG SCRAPE REPORT
+========================================
+Generated: 2026-02-01 13:16:49 UTC
+
+PIPELINE SUMMARY
+----------------------------------------
+Total input URLs       : 4
+Pages fetched          : 3
+Failed fetches         : 1
+Products parsed        : 4
+Products normalized    : 4
+Duplicates removed     : 0
+Products mapped        : 4
+Final Shopify rows     : 14
+
+VALIDATION
+----------------------------------------
+Validation errors      : 33
+Validation warnings    : 1
+
+EXPORT STATUS
+----------------------------------------
+CSV Exported           : False
+JSON Exported          : False
+
+FILES DELIVERED
+----------------------------------------
+output/shopify_catalog.csv
+output/catalog.json
+output/error_log.json
+output/scrape_report.txt
+
+SYSTEM STATUS
+----------------------------------------
+STATUS: COMPLETED WITH ERRORS ⚠️

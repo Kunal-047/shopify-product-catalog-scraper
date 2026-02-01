@@ -1,0 +1,50 @@
+# ==========================================
+# Vendor Mapping Configuration
+# Maps domain → Shopify Vendor field
+# ==========================================
+# Format:
+# domain: Vendor Name
+
+amazon.in: Amazon
+amazon.com: Amazon
+amazon.co.uk: Amazon
+
+flipkart.com: Flipkart
+myntra.com: Myntra
+ajio.com: AJIO
+snapdeal.com: Snapdeal
+tatacliq.com: TataCliq
+
+meesho.com: Meesho
+shopclues.com: ShopClues
+
+reliancedigital.in: Reliance Digital
+jiomart.com: JioMart
+
+croma.com: Croma
+vijaysales.com: Vijay Sales
+
+nykaa.com: Nykaa
+firstcry.com: FirstCry
+pepperfry.com: Pepperfry
+urbanladder.com: Urban Ladder
+
+mi.com: Xiaomi
+samsung.com: Samsung
+apple.com: Apple
+oneplus.in: OnePlus
+realme.com: Realme
+oppo.com: OPPO
+vivo.com: Vivo
+
+# -------- Global Ecommerce --------
+aliexpress.com: AliExpress
+alibaba.com: Alibaba
+etsy.com: Etsy
+ebay.com: eBay
+walmart.com: Walmart
+bestbuy.com: BestBuy
+target.com: Target
+
+# -------- Demo / Testing --------
+example.com: DemoVendor
